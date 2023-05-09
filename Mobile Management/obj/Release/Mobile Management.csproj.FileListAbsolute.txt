@@ -1,0 +1,24 @@
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Mobile Management.exe.config
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Mobile Management.pdb
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Guna.UI2.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.csproj.SuggestedBindingRedirects.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.Dashboard.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.Form1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl2.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl3.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl4.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl5.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl6.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile_Management.UserControl7.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.csproj.GenerateResource.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.csproj.CopyComplete
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Release\Mobile Management.pdb

@@ -1,0 +1,64 @@
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\bin\Debug\Mobile Management.exe.config
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\bin\Debug\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\bin\Debug\Mobile Management.pdb
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.SuggestedBindingRedirects.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Form1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.GenerateResource.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.pdb
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Dashboard.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\bin\Debug\Guna.UI2.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.CopyComplete
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl2.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Mobile Management.exe.config
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Mobile Management.pdb
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Guna.UI2.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.csproj.AssemblyReference.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.csproj.SuggestedBindingRedirects.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.Dashboard.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.Form1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.Properties.Resources.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl1.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl2.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.csproj.GenerateResource.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.csproj.CoreCompileInputs.cache
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.csproj.CopyComplete
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.exe
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile Management.pdb
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl3.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl4.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl5.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl6.resources
+D:\Công Nghệ Phần Mềm\CUOI_KY\Mobile Management - backup\Mobile Management\obj\Debug\Mobile_Management.UserControl7.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Mobile Management.exe.config
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Mobile Management.exe
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Mobile Management.pdb
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Guna.UI2.dll
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.AssemblyReference.cache
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.SuggestedBindingRedirects.cache
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Dashboard.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Form1.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.Properties.Resources.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl1.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl2.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl3.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl4.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl5.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl6.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile_Management.UserControl7.resources
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.GenerateResource.cache
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.CoreCompileInputs.cache
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.csproj.CopyComplete
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.exe
+E:\Anh Tuấn\IT\HK2- 2022-2023\Lập trình Web và ứng dụng\CUỐI KỲ\Final_Project_CNPM\Mobile Management\Mobile Management\obj\Debug\Mobile Management.pdb
